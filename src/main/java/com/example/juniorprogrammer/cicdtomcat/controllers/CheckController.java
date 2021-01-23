@@ -9,7 +9,7 @@ public class CheckController {
 
     @GetMapping(value = "test")
     public String check(@RequestParam String name){
-        return "masuk boss "+name;
+        return "masuk bro "+name;
     }
 
 }
