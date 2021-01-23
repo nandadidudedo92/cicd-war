@@ -1,2 +1,0 @@
-# cicd-war
-war cicd
